@@ -7,7 +7,7 @@ Project continued at: https://github.com/coderbunker/OverhandFitness
 
 ## Overhand Fitness Exercise Classification (CoderBunker Machine learning Colearners) :fire:    
 <img src= 'http://overhandfitness.cn/assets/img/logo.png' aligh='left' width= '80' height= '60'> 
-<img src= 'http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/v1/775700/480c7f839475496a9608f42c194299b4_jvcd7e.png' aligh= 'left' width= '80' height= '60' > 
+
 
 #### 
 [Overhand Fitness](http://overhandfitness.cn/en/home) 
@@ -53,8 +53,8 @@ For more experimental features variants, next step we will manually extract repe
 
  #### Contributing :monkey: 
 - Anne-Sophie, Jacob works for the data preprocessing and build the database in Postgres, currently Sophie is doing the structured data labelling 
-- Tanmay, Chloe and Chris works for test with those training data with algorithm and assist the data preprocessing part, testing and validating the methodology that applicable to this exercise classification problem 
-- Ricky and Istus suggested technical approaches and guide the team based on project timeline and scope 
+- Tanmay and Chloe worked on testing training data with various machine learning algorithms and assisted for the data preprocessing part. Testing and validating the methodology that is applicable to this exercise classification problem. 
+- Ricky and Istus suggested technical approaches and guided the team based on project timeline and scope 
 
 #### Related working reference: 
 - CodeBook UCI Data Analysis. (n.d.). Retrieved July 23, 2018, from http://ucihar-data-analysis.readthedocs.io/en/latest/CodeBook/
